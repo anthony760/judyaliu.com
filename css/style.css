@@ -9,3 +9,22 @@ body, html {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.container {
+    max-width: 1000px; 
+}
+
+.landing-header {
+    margin-top: 30%;
+    margin-bottom: 5%;
+    color: #FFF;
+}
+
+.landing-header h1 {
+    font-size: 4em;
+}
+
+.landing-middle {
+    background-color: #FFF;
+    font-size: 2em;
+}
