@@ -24,7 +24,9 @@ body, html {
     font-size: 4em;
 }
 
-.landing-middle {
+.landing-middle p {
     background-color: #FFF;
     font-size: 2em;
+    margin: 0;
+    padding: 1em 1em 0 1em;
 }
