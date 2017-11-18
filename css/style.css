@@ -24,9 +24,19 @@ body, html {
     font-size: 4em;
 }
 
+.landing-middle {
+    padding-bottom: 3em;
+}
+
 .landing-middle p {
     background-color: #FFF;
     font-size: 2em;
     margin: 0;
     padding: 1em 1em 0 1em;
+}
+
+.calling-card {
+    margin: 0% 10% 5% 10%;
+    background-color: rgb(255, 143, 210);
+    font-size: 1.5em;
 }
