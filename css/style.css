@@ -41,3 +41,8 @@ body, html {
     background-color: rgb(255, 143, 210);
     font-size: 1.5em;
 }
+
+.landing-bottom img {
+    float: left;
+    margin-right: 15px;
+}
