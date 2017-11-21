@@ -43,6 +43,10 @@ body, html {
     color: #182360;
 }
 
+.font-signiture {
+    font-family: 'Courgette', cursive;
+}
+
 .landing-bottom img {
     float: left;
     margin-right: 15px;
