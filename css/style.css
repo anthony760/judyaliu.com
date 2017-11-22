@@ -39,6 +39,8 @@ body, html {
 
 .calling-card {
     margin: 0% 10% 5% 10%;
+    padding-top: 5px;
+    padding-bottom: 5px;
     /*background-color: rgb(255, 143, 210);*/
     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ff7cd8+1,f9b8e3+48,fba6e1+76 */
     background: #ff7cd8; /* Old browsers */
