@@ -18,6 +18,8 @@ body, html {
 .landing-header {
     margin-top: 30%;
     margin-bottom: 5%;
+    margin-left: 0;
+    margin-right: 0;
     color: #FFF;
     padding: 15px;
 }
