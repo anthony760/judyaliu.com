@@ -39,7 +39,13 @@ body, html {
 
 .calling-card {
     margin: 0% 10% 5% 10%;
-    background-color: rgb(255, 143, 210);
+    /*background-color: rgb(255, 143, 210);*/
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ff7cd8+1,f9b8e3+48,fba6e1+76 */
+    background: #ff7cd8; /* Old browsers */
+    background: -moz-linear-gradient(45deg, #ff7cd8 1%, #f9b8e3 48%, #fba6e1 76%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(45deg, #ff7cd8 1%,#f9b8e3 48%,#fba6e1 76%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(45deg, #ff7cd8 1%,#f9b8e3 48%,#fba6e1 76%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff7cd8', endColorstr='#fba6e1',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
     font-size: 1.5em;
     color: #182360;
 }
