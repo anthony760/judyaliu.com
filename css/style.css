@@ -62,3 +62,23 @@ body, html {
     float: left;
     margin-right: 15px;
 }
+
+.content p {
+    font-size: 1.2em;
+    text-indent: 2em;
+}
+
+.content h1 {
+    font-size: 2em;
+	font-weight: normal;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #6699FF;
+	margin-bottom: 20px;
+}
+
+.sidebar strong {
+    display: block;
+
+    text-align: center;
+}
