@@ -82,6 +82,7 @@ body, html {
     color: #182360;
     font-size: 2em;
     text-align: center;
+    padding-bottom: 15px;
 }
 
 .list-group-item {
